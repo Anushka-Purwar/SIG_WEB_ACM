@@ -1,0 +1,18 @@
+Git bash in vs code folder
+touch inex.html
+code index.html
+git init
+git add .(dot for all fies and folders)
+git commit -m "my first comit"(message for commnt)
+git remote add origin (url)
+git push -u origi master
+(for main chage branche git branch -main)
+setting>>sorce>>master
+repo link//io link(code link&&repo link)
+Set your username:
+git config --global user.name "FIRST_NAME LAST_NAME"
+
+Set your email address:
+git config --global user.email "MY_NAME@example.com"gigit
+git status
+git commit -m "deleted all"

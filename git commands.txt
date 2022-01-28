@@ -5,7 +5,7 @@ git init
 git add .(dot for all fies and folders)
 git commit -m "my first comit"(message for commnt)
 git remote add origin (url)
-git push -u origi master
+git push -u origin master
 (for main chage branche git branch -main)
 setting>>sorce>>master
 repo link//io link(code link&&repo link)
